@@ -1,0 +1,26 @@
+{
+    "name": "Five Second Game Extension",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*",
+        "five second games #2": "pub:47339-47807-57176-52495"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
